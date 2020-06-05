@@ -1,5 +1,5 @@
 # anonibus
-Repositório Contendo O Código Fonte do APP Anonibus
+Repositório contendo o código fonte do APP Anonibus
 Nesse projeto foram utilizadas as seguintes tecnologias:
 - React Native
 - Firebase
